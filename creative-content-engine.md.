@@ -1,31 +1,59 @@
+# Creative Content Engine: Movie Scene Generator
+
+This file demonstrates a prompt designed to generate a creative, formatted movie scene based on a set of specific inputs.
+
+---
+## The Prompt
 
 Act as a professional screenwriter.
-​Your task is to write a short (approximately one page) movie scene in standard screenplay format.
-​Please use the following creative brief:
-​Genre: Romance
-​Setting: A cozy, charming cafe in Hyderabad on a weekday afternoon. The air smells of fresh coffee and rain. A soft, instrumental love BGM is playing quietly in the background.
-​Characters:
-​ARJUN (24), an energetic and optimistic architect, sketching in his notebook.
-​PRIYA (23), a thoughtful and bright freelance writer, absorbed in a book.
-​Situation: Arjun and Priya are sitting at separate tables. They look up at the exact same moment and lock eyes for the first time. It is a clear moment of "love at first sight." The scene should capture their internal reactions and the small, awkward actions they take as they try to pretend they weren't just staring at each other. The scene ends as one of them decides to make the first move.
 
+Your task is to write a short (approximately one page) movie scene in standard screenplay format.
+
+Please use the following creative brief:
+* **Genre:** Romance
+* **Setting:** A cozy, charming cafe in Hyderabad on a weekday afternoon. The air smells of fresh coffee and rain. A soft, instrumental love BGM is playing quietly in the background.
+* **Characters:**
+   * ARJUN (24), an energetic and optimistic architect, sketching in his notebook.
+   * PRIYA (23), a thoughtful and bright freelance writer, absorbed in a book.
+* **Situation:** Arjun and Priya are sitting at separate tables. They look up at the exact same moment and lock eyes for the first time. It is a clear moment of "love at first sight." The scene should capture their internal reactions and the small, awkward actions they take as they try to pretend they weren't just staring at each other. The scene ends as one of them decides to make the first move.
+
+---
+## Sample AI Output
 
 [SCENE START]
-​INT. "THE DAILY GRIND" CAFE - DAY
-​Sunlight, soft and warm after a recent rain, streams through the large glass windows of a cozy, charming cafe in Hyderabad. The air is rich with the smell of brewing coffee and damp earth. A soft, instrumental love song plays almost inaudibly from hidden speakers.
-​ARJUN (24), energetic and with a bright, curious expression, is intensely focused on his sketchbook, an architect's pencil dancing across the page. He absently stirs a half-empty cup of tea.
-​At a table across the small room sits PRIYA (23), thoughtful and serene. She is completely absorbed in a thick novel, a gentle smile playing on her lips.
-​A sharp clap of THUNDER echoes outside, a leftover from the passing storm.
-​Both Arjun and Priya flinch at the sound, their heads snapping up at the exact same moment.
-​Their eyes meet.
-​For a beat, the world dissolves. The soft music in the background seems to swell, becoming the soundtrack to this one, silent moment. He sees her quiet intelligence. She sees his vibrant energy. It's instant. It's undeniable.
-​A beat too long.
-​They both realize they're staring.
-​Priya's cheeks flush. She quickly looks down at her book, but the words are just a blur. She re-reads the same sentence three times.
-​Arjun jerks his gaze away, suddenly fascinated by a sugar packet on his table. He picks it up, inspects it with absurd intensity, and sets it down again. He clears his throat, takes a sip of his now-cold tea.
-​He risks a tiny glance back at her. She's already looking at him, a tiny, shy smile quickly hidden behind her book.
-​He smiles back, a genuine, wide grin.
-​That's it.
-​Arjun takes a quiet, deep breath. He places his pencil deliberately on his sketchbook, closes it, and pushes his chair back with a soft scrape. He stands up.
-​[SCENE END]
+
+**INT. "THE DAILY GRIND" CAFE - DAY**
+
+Sunlight, soft and warm after a recent rain, streams through the large glass windows of a cozy, charming cafe in Hyderabad. The air is rich with the smell of brewing coffee and damp earth. A soft, instrumental love song plays almost inaudibly from hidden speakers.
+
+ARJUN (24), energetic and with a bright, curious expression, is intensely focused on his sketchbook, an architect's pencil dancing across the page. He absently stirs a half-empty cup of tea.
+
+At a table across the small room sits PRIYA (23), thoughtful and serene. She is completely absorbed in a thick novel, a gentle smile playing on her lips.
+
+A sharp clap of THUNDER echoes outside, a leftover from the passing storm.
+
+Both Arjun and Priya flinch at the sound, their heads snapping up at the exact same moment.
+
+Their eyes meet.
+
+For a beat, the world dissolves. The soft music in the background seems to swell, becoming the soundtrack to this one, silent moment. He sees her quiet intelligence. She sees his vibrant energy. It's instant. It's undeniable.
+
+A beat too long.
+
+They both realize they're staring.
+
+Priya's cheeks flush. She quickly looks down at her book, but the words are just a blur. She re-reads the same sentence three times.
+
+Arjun jerks his gaze away, suddenly fascinated by a sugar packet on his table. He picks it up, inspects it with absurd intensity, and sets it down again. He clears his throat, takes a sip of his now-cold tea.
+
+He risks a tiny glance back at her. She's already looking at him, a tiny, shy smile quickly hidden behind her book.
+
+He smiles back, a genuine, wide grin.
+
+That's it.
+
+Arjun takes a quiet, deep breath. He places his pencil deliberately on his sketchbook, closes it, and pushes his chair back with a soft scrape. He stands up.
+
+[SCENE END]
+
 
